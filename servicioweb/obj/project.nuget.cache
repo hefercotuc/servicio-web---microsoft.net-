@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "32Y0tFqOcUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HP\\Desktop\\Hefer Cotuc\\UVG\\4° Semestre\\Programación Web\\Projects\\Progra Web Projects\\servicio_web\\servicioweb\\servicioweb.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
